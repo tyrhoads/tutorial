@@ -1,4 +1,6 @@
 print("hello world")
 
-if 2<10:
+if 12<10:
     print("yes")
+else:
+    print("no")
